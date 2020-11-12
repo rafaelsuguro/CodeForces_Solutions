@@ -1,1 +1,1 @@
-Some solutions for problems from SPOJ (www.spoj.com)
+Soluções dos desafios do CodeForces (https://codeforces.com/)
